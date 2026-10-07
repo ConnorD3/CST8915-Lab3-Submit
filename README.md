@@ -36,8 +36,11 @@ Its important to use environment variables in a cloud environment as the variabl
 ### Repositories
 
 [Order-service](https://github.com/ConnorD3/order-service)
+
 [Store-front](https://github.com/ConnorD3/store-front)
+
 [Product-service](https://github.com/ConnorD3/product-service)
+
 [Product-service(Python version)](https://github.com/ConnorD3/product-service-python)
 
 ---
